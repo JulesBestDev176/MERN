@@ -31,7 +31,7 @@ const Navbar = () => {
                     textTransform={"uppercase"}
                     textAlign={"center"}
                     bgGradient={'linear(to-r, cyan.400, blue.500)'}
-                    bgClip='text'
+                    bgClip={'text'}
                 >
                     <Link to={"/"}>Product Store 🛒</Link>
                 </Text>
